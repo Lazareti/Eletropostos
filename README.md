@@ -49,7 +49,7 @@ A pasta [Parte_Final](./Parte_Final) contém a versão final do trabalho, inclui
 
 O vídeo apresenta o problema estudado, a aplicação dos conceitos de Teoria dos Grafos e uma demonstração prática do programa.
 
-**Link do YouTube:** será adicionado após a publicação do vídeo.
+**Link do YouTube:** (https://youtu.be/0Lv7BkBIHl8)
 
 ## Integrantes
 
