@@ -41,7 +41,7 @@ A pasta [Parte_Final](./Parte_Final) contém a versão final do trabalho, inclui
 
 - [Código principal](./Parte_Final/main.py)
 - [Apresentação do trabalho](./Parte_Final/Apresentacao_Eletropostos.pptx)
-- [Relatório do projeto (Word)](./Parte_Final/Relatorio_TG_Eletropostos_Sul_Parte3.docx)
+- [Relatório do projeto (PDF)](./Parte_Final/Relatorio_TG_Eletropostos_Sul_Parte3.pdf)
 - [Dados do grafo](./Parte_Final/dados/grafo.txt)
 - [Instruções da versão final](./Parte_Final/README.md)
 
